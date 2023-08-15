@@ -34,7 +34,7 @@ This plugin could be considered the 'alter ego' of maven apt plugin http://mojo.
 
   <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <maven.release>3.1.0</maven.release>
+      <maven.release>3.8.1</maven.release>
       <!-- SONATYPE REPO -->
       <snapshot.repo.id>sonatype-repo</snapshot.repo.id>
       <snapshot.repo.url>https://oss.sonatype.org/content/repositories/snapshots</snapshot.repo.url>
